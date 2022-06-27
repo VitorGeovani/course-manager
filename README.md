@@ -72,7 +72,7 @@
 
 ## <a name="preview"></a>🖥 Preview do projeto
 * Página <b>Home</b> (Desktop)
-<img src="https://user-images.githubusercontent.com/71882193/175955164-0878226d-ea49-4cff-b63d-59ed406a9ad2.png" width="1000px" />
+<img src="https://user-images.githubusercontent.com/71882193/175955164-0878226d-ea49-4cff-b63d-59ed406a9ad2.png" />
 
 
 ## ⌨ Como executar o projeto
