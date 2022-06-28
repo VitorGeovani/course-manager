@@ -77,6 +77,6 @@
 
 ## ⌨ Como executar o projeto
 
-Baixe o arquivo .ZIP do projeto e após descompactar, dê um <b>node server.js</b> no arquivo presente na pasta <b>server</b> para ligar o Back-End. Para ligar o Front-End, acesse a pasta <b>course-manager</b> e dê um <b>ng serve -o</b> no Terminal.
+Baixe o arquivo .ZIP do projeto e após descompactar, dê um <b>node serve.js</b> no arquivo presente na pasta <b>server</b> para ligar o Back-End. Para ligar o Front-End, acesse a pasta <b>course-manager</b> e dê um <b>ng serve -o</b> no Terminal.
 
 ---
